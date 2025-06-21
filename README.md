@@ -1,58 +1,64 @@
-Finance App
-A sleek and user-friendly Finance App built with React.js (and other relevant technologies) that allows you to track expenses, manage income, and gain actionable insights into your personal or business finances.
 
-✨ Features
-💳 Track Expenses & Income: Add, categorize, and review transactions.
+# Finance App
 
-📊 Dashboard: Get a quick snapshot of your financial status.
+A sleek and user-friendly **Finance App** built with **React.js** (and other relevant technologies) that allows you to **track expenses**, **manage income**, and gain actionable insights into your personal or business finances.
 
-🔍 Search & Filter: Quickly locate transactions.
+---
 
-📈 Visual Reports: Interactive charts and graphs.
+## ✨ Features
 
-🗂️ Category Management: Organize your transactions by category.
+- 💳 **Track Expenses & Income**: Add, categorize, and review transactions.
+- 📊 **Dashboard**: Get a quick snapshot of your financial status.
+- 🔍 **Search & Filter**: Quickly locate transactions.
+- 📈 **Visual Reports**: Interactive charts and graphs.
+- 🗂️ **Category Management**: Organize your transactions by category.
+- 🌐 **Responsive Design**: Works seamlessly across desktop, tablet, and mobile.
+- ⚡️ **Modern Tech Stack**: Created with React, making it fast and maintainable.
 
-🌐 Responsive Design: Works seamlessly across desktop, tablet, and mobile.
+---
 
-⚡️ Modern Tech Stack: Created with React, making it fast and maintainable.
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
-⚛️ React.js: Front-end framework
+- ⚛️ **React.js**: Front-end framework
+- 🖌️ **Material-UI / TailwindCSS / CSS** (whichever applies): Styling
+- 🌐 **Axios / Fetch API**: API communication
+- 🗄️ **Node.js / Express.js / MongoDB** (or relevant backend): Backend services (if applicable)
 
-🖌️ Material-UI / TailwindCSS / CSS (whichever applies): Styling
+---
 
-🌐 Axios / Fetch API: API communication
+## 🚀 Getting Started
 
-🗄️ Node.js / Express.js / MongoDB (or relevant backend): Backend services (if applicable)
+### ✅ Prerequisites
+- Node.js (v14 or above) and NPM installed
+- The backend service configured (if applicable)
 
-🚀 Getting Started
-✅ Prerequisites
-Node.js (v14 or above) and NPM installed
+---
 
-The backend service configured (if applicable)
-
-🐙 Clone the Repository
-bash
-Copy
-Edit
+### 🐙 Clone the Repository
+```bash
 git clone https://github.com/saurabh-tiwari08/Finance-App.git
 cd Finance-App
-📦 Install Dependencies
-bash
-Copy
-Edit
-npm install
-⚡️ Run the App
-bash
-Copy
-Edit
-npm start
-Your app will be available at: http://localhost:3000
+```
 
-📂 Project Structure
-css
-Copy
-Edit
+---
+
+### 📦 Install Dependencies
+```bash
+npm install
+```
+
+---
+
+### ⚡️ Run the App
+```bash
+npm start
+```
+Your app will be available at: `http://localhost:3000`
+
+---
+
+## 📂 Project Structure
+```
 src/
 ├─ components/
 ├─ pages/
@@ -61,21 +67,22 @@ src/
 ├─ App.js
 ├─ index.js
 ├─ ...
-🙌 Contributing
-Contributions are always welcome!
+```
+
+---
+
+## 🙌 Contributing
+Contributions are always welcome!  
 If you have ideas for improvements:
 
-🍴 Fork the repository
+1. 🍴 **Fork the repository**
+2. 🌱 Create a new branch (`git checkout -b feature/new-feature`)
+3. ✅ Commit your changes (`git commit -m 'Add new feature'`)
+4. 📤 Push to the branch (`git push origin feature/new-feature`)
+5. 🔥 Open a Pull Request
 
-🌱 Create a new branch (git checkout -b feature/new-feature)
+---
 
-✅ Commit your changes (git commit -m 'Add new feature')
-
-📤 Push to the branch (git push origin feature/new-feature)
-
-🔥 Open a Pull Request
-
-👏 Acknowledgements
-Thanks to the React and JavaScript communities.
-
-Inspired by the need for a simple, elegant, and functional personal finance tool.
+## 👏 Acknowledgements
+- Thanks to the **React** and **JavaScript** communities.
+- Inspired by the need for a simple, elegant, and functional personal finance tool.
